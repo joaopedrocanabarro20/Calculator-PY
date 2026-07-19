@@ -1,4 +1,4 @@
 # Calculator-PY
 Calculator project created in Python using the Tkinter GUI library. Gemini was used to assist in learning the library.
 
-![Interface](/home/joao/Documents/projetos/calculadorapython/images/interface.png)
+![Interface](images/interface.png)
